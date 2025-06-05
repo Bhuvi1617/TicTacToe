@@ -1,3 +1,9 @@
+Note: This is an old TicTacToe project from the React tutorial , want to modify it to enhance and possibly create a visualizer.
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
